@@ -60,7 +60,7 @@ body {
   left: 0;
   right: 0;
   z-index: 1000;
-  width: 95%;
+  width: 90%;
   justify-self: center;
   border-radius: 15px;
   background-color: transparent;
@@ -73,7 +73,7 @@ body {
 .nav-container {
   max-width: 1200px;
   margin: 0 auto;
-  padding: 0 1.5rem;
+  /* padding: 0 1.5rem; */
   height: 60px;
   display: flex;
   align-items: center;
