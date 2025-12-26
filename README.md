@@ -46,29 +46,6 @@
 5. The extension will attempt booking as soon as tickets are available
 
 
-
-## 👥 Contributors
-
-Thanks to these wonderful people who have contributed to this project:
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/yourusername">
-        <img src="https://github.com/yourusername.png" width="80px;" alt="Vishal"/>
-        <br />
-        <sub><b>Vishal</b></sub>
-      </a>
-      <br />
-      <sub>Lead Developer</sub>
-    </td>
-    <!-- Add more contributors here -->
-  </tr>
-</table>
-
-Want to see your name here? [Start contributing!](#contributing)
-
-
 <p align="center">
   Made with ❤️ for the Indian Railway travelers
 </p>
